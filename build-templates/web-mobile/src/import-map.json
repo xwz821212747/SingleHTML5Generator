@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "cc": "chunks:///_virtual/cc.js"
+  }
+}
